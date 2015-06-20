@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
+## This is too tough for me who has been learning R only for a few dayas now.
 ## functions do
 
-## Write a short comment describing this function
+## If this assignment is a test of Forking, editing and commmiting changes to github i shall score else 0
 
 makeCacheMatrix <- function(x = matrix()) {
 
